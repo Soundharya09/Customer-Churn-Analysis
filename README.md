@@ -11,6 +11,7 @@ through data-driven decision-making.
 - Build an interactive dashboard for stakeholders
 
 ## 📂 Project Files
+
 Customer-Churn-Analysis/
 │── Customer Churn Analysis BI Project.ipynb   
 │── customer_churn_cleaned.csv                
