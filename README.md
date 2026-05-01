@@ -13,11 +13,16 @@ through data-driven decision-making.
 ## 📂 Project Files
 
 Customer-Churn-Analysis/
-│── Customer Churn Analysis BI Project.ipynb   
-│── customer_churn_cleaned.csv                
-│── Customer Churn Analysis.pbix              
-│── Executive Overview Page.png               
+│── Customer Churn Analysis BI Project.ipynb  
+
+│── customer_churn_cleaned.csv 
+
+│── Customer Churn Analysis.pbix 
+
+│── Executive Overview Page.png      
+
 │── Customer Behavior Analysis Page.png
+
 │── Risk and Retention Insights Page.png
 
 ## 🧠 Tools & Technologies
