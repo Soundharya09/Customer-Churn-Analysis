@@ -50,12 +50,14 @@ Created an interactive dashboard with 3 main pages:
 #### 📌 1. Executive Overview
 - Total customers, churn rate, and revenue impact
 - High-level KPIs for decision-makers
+https://github.com/Soundharya09/Customer-Churn-Analysis/blob/master/Executive%20Overview%20Page.png
 
 #### 👥 2. Customer Behavior Analysis
 - Churn by contract type
 - Churn by payment method
 - Service usage patterns
 - 📌 Key Finding: Customers with monthly contracts have significantly higher churn
+https://github.com/Soundharya09/Customer-Churn-Analysis/blob/master/Customer%20Behavior%20Analysis%20Page.png
 
 #### ⚠️ 3. Risk & Retention Insights
 - High-risk customer segments
@@ -66,6 +68,7 @@ Created an interactive dashboard with 3 main pages:
 - Customers using electronic check payments show higher churn
 - Short-tenure customers are more likely to leave
 - Higher monthly charges correlate with increased churn
+https://github.com/Soundharya09/Customer-Churn-Analysis/blob/master/Risk%20and%20Retention%20Insights%20Page.png
 
 ## 💡 Business Recommendations
 - Encourage long-term contracts with incentives
